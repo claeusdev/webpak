@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "author": "Nana Adjei Manu <claeusdev@outlook.com> (https://nanamanu.xyz/)",
   "license": "MIT",
